@@ -1,7 +1,12 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: white;
+  padding: 10px;
+}
+
+html {
+  background-color: #ddd;
 }
 
 img {
@@ -21,12 +26,6 @@ h2 {
   font-weight: 400;
   font-size: 12px;
   text-align: center;
-}
-
-.introduction {
-  background-image: url(../img/background_introduction.jpeg);
-  background-size: cover;
-  background-position: center;
 }
 
 .swissdesignfair {
