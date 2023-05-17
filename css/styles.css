@@ -8,3 +8,13 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.titles {
+  background-color: black;
+  color: white;
+}
+
+.event_slide {
+  background-color: black;
+  color: white;
+}
