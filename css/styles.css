@@ -15,9 +15,37 @@ font-weight: 400;
 font-style: normal;
 }
 
+h2 {
+  font-family: peckham-press, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+}
+
+.introduction {
+  background-image: url(../img/background_introduction.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.swissdesignfair {
+  font-family: "eco", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.swissdesignfair_text {
+  font-family: "eco", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+
 .titles {
   background-color: black;
   color: white;
+  padding: 0.5px;
 }
 
 .event_slide {
@@ -27,6 +55,9 @@ font-style: normal;
 
 a {
   text-decoration: none;
+  font-family: "all-round-gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 a:hover {
@@ -37,4 +68,5 @@ p {
   font-family: "all-round-gothic", sans-serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 14px;
 }
