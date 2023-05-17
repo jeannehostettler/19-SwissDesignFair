@@ -9,6 +9,12 @@ img {
   max-width: 100%;
 }
 
+h1 {
+font-family: "eco", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
 .titles {
   background-color: black;
   color: white;
@@ -21,5 +27,14 @@ img {
 
 a {
   text-decoration: none;
-  
+}
+
+a:hover {
+  color: blue;
+}
+
+p {
+  font-family: "all-round-gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
