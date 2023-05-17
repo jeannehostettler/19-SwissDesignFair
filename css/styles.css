@@ -18,11 +18,27 @@ h1 {
 font-family: "eco", sans-serif;
 font-weight: 400;
 font-style: normal;
+text-align: center;
 }
 
 nav {
   font-size: 11px;
   text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-family: "all-round-gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 11px;
+  text-align: center;
+  color: black;
+  margin-right: 11px;
+}
+
+a:hover {
+  color: blue;
 }
 
 h2 {
@@ -33,11 +49,25 @@ h2 {
   text-align: center;
 }
 
+.titles {
+  background-color: black;
+  color: white;
+  padding: 0.5px;
+}
+
+p {
+  font-family: "all-round-gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+
 .event_slide {
   background-color: black;
   color: white;
-  padding: 0.5px
+  padding: 0.5px;
 }
+
 
 .swissdesignfair {
   font-family: "eco", sans-serif;
@@ -47,34 +77,6 @@ h2 {
 
 .swissdesignfair_text {
   font-family: "eco", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 14px;
-}
-
-.titles {
-  background-color: black;
-  color: white;
-  padding: 0.5px;
-}
-
-
-a {
-  text-decoration: none;
-  font-family: "all-round-gothic", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 11px;
-  text-align: center;
-  color: black;
-}
-
-a:hover {
-  color: blue;
-}
-
-p {
-  font-family: "all-round-gothic", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 14px;
